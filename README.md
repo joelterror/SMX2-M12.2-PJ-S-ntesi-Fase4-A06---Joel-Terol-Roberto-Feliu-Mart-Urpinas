@@ -6,7 +6,9 @@
 |:-------:|:-------------:|
 |   A     | 0 - 127      |
 |   B     | 128 - 191      |
-|       |       |
+|   C     |  192 - 223     |
+|   D  (Multicast)   |  224 - 239     |
+| E       |  240 - 255     |
 # Quines IP's s'utilitzen per a servidors i quines ip's per a portes d'enllaç. 
 
 # Funcionalitat de la màscares de xarxa i com es calculen segons la classificació d'IP's. 
