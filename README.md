@@ -2,6 +2,8 @@
 
 # Classificació IP's 
 
+Las IPs se classifican en diversas clases según su función o su rango.
+
 |Clase  |Rango  |
 |:-------:|:-------------:|
 |   A     | 0 - 127      |
