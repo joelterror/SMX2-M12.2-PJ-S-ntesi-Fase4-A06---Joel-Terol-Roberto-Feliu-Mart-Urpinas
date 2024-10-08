@@ -13,4 +13,3 @@ Configuració de xarxa a màquines virtuals. Diferents configuracions dels adapt
 Configuració de xarxa en windows. 
 
 Configuració de xarxa en Linux (en un Debian i en un Ubuntu 24.04). 
-klk mi loco
