@@ -38,11 +38,11 @@ Una VLAN (Virtual Local Area Network) es una tecnología que permite segmentar u
 # Configuració de xarxa a màquines virtuals. Diferents configuracions dels adaptadors de xarxa. 
 NAT: Acceso a Internet desde la VM, sin necesidad de acceso externo.
 
-Bridge: para una conexión completa con la red física y accesibilidad total.
+Bridge: Para una conexión completa con la red física y accesibilidad total.
 
-Host-Only: para pruebas aisladas.
+Host-Only: Para pruebas aisladas.
 
-NAT Network: para compartir acceso a Internet entre varias máquinas virtuales.
+NAT Network: Para compartir acceso a Internet entre varias máquinas virtuales.
 
 # Configuració de xarxa en windows. 
 
