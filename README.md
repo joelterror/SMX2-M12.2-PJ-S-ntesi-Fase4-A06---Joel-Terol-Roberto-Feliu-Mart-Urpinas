@@ -46,4 +46,6 @@ NAT Network: Para compartir acceso a Internet entre varias máquinas virtuales.
 
 # Configuració de xarxa en windows. 
 
+
+
 # Configuració de xarxa en Linux (en un Debian i en un Ubuntu 24.04). 
