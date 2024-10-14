@@ -36,7 +36,7 @@ Una VLAN (Virtual Local Area Network) es una tecnología que permite segmentar u
 ![](what-is-VLAN-Network.webp)
 
 # Configuració de xarxa a màquines virtuals. Diferents configuracions dels adaptadors de xarxa. 
-NAT: por acceso básico a Internet desde la VM, sin necesidad de acceso externo.
+NAT: Acceso a Internet desde la VM, sin necesidad de acceso externo.
 
 Bridge: para una conexión completa con la red física y accesibilidad total.
 
