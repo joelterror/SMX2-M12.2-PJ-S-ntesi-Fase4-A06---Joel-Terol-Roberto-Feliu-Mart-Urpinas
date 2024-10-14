@@ -29,7 +29,7 @@ NAT: por acceso básico a Internet desde la VM, sin necesidad de acceso externo.
 
 Bridge: para una conexión completa con la red física y accesibilidad total.
 
-Internal Network o Host-Only: para pruebas aisladas.
+Host-Only: para pruebas aisladas.
 
 NAT Network: para compartir acceso a Internet entre varias máquinas virtuales.
 
