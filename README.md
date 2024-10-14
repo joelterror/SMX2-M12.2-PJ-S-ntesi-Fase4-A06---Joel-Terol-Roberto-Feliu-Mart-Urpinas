@@ -21,6 +21,15 @@ La IP que utilizará para el gateway es __192.168.2.250__ , el gateway puede cam
 # Funcionalitat de la màscares de xarxa i com es calculen segons la classificació d'IP's. 
 Las máscaras de red son utilizadas en redes informáticas para separar la dirección IP en una parte de red y una parte de host. Esto permite identificar si dos direcciones IP están dentro de la misma red o si están en redes diferentes. 
 
+|Clase  |Rango  |
+|:-------:|:-------------:|
+|   A     | 0 - 127      |
+|   B     | 128 - 191      |      
+|   C     |  192 - 223     |
+|   D  (Multicast)   |  224 - 239     |
+| E       |  240 - 255     |
+
+
 # VLAN (què és i perquè serveix, configuració en Packet Tracer) 
 Una VLAN (Virtual Local Area Network) es una tecnología que permite segmentar una red física en múltiples redes lógicas separadas. Las VLAN se utilizan para mejorar la eficiencia, la seguridad y la gestión de una red.
 ![](what-is-VLAN-Network.webp)
