@@ -32,6 +32,7 @@ Las máscaras de red son utilizadas en redes informáticas para separar la direc
 
 # VLAN (què és i perquè serveix, configuració en Packet Tracer) 
 Una VLAN (Virtual Local Area Network) es una tecnología que permite segmentar una red física en múltiples redes lógicas separadas. Las VLAN se utilizan para mejorar la eficiencia, la seguridad y la gestión de una red.
+
 ![](what-is-VLAN-Network.webp)
 
 # Configuració de xarxa a màquines virtuals. Diferents configuracions dels adaptadors de xarxa. 
