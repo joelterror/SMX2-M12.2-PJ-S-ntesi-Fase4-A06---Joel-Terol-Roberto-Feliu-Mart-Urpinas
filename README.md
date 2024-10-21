@@ -66,4 +66,12 @@ Y por último ya podremos modificar los parámetros.
 
 # Configuració de xarxa en Linux (en un Debian i en un Ubuntu 24.04). 
 
+Entramos en el terminal y escribimos este comando.
+
+![image](https://github.com/user-attachments/assets/b2771628-6293-4aaa-98aa-fcb90e43be63)
+
+Y aqui dentro escribimos todo tal cual esta.
+
+![image](https://github.com/user-attachments/assets/535787c3-5822-4863-92eb-c5b91c629620)
+
 
