@@ -65,3 +65,5 @@ Y por último ya podremos modificar los parámetros.
 
 
 # Configuració de xarxa en Linux (en un Debian i en un Ubuntu 24.04). 
+
+
