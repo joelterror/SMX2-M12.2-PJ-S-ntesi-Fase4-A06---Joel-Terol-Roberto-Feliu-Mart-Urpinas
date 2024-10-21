@@ -50,7 +50,11 @@ Para entrar nos dirigimos a el panel de control -) Redes e internet -) Centro de
 
 ![tcp](https://github.com/user-attachments/assets/6cbb1eee-ae83-4c7f-886d-ad1399fae812)
 
-Y por último ya podremos modificar los parámetros.
+
+
+Y por último ya podremos modificar los parámetros.ç
+
+
 ![image](https://github.com/user-attachments/assets/46352f52-e448-49ad-b88c-59d3872d8032)
 
 
