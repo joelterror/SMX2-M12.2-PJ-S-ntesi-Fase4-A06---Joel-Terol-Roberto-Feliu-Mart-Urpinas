@@ -70,7 +70,7 @@ Entramos en el terminal y escribimos este comando.
 
 ![image](https://github.com/user-attachments/assets/b2771628-6293-4aaa-98aa-fcb90e43be63)
 
-Y aqui dentro escribimos todo tal cual esta. Y ya dependiendo de lo que quieras hacer puedes modificar algunas cosas como por ejemplo el DHCP, poniendolo en off.
+Y aqui dentro escribimos todo tal cual esta. 
 
 ![image](https://github.com/user-attachments/assets/535787c3-5822-4863-92eb-c5b91c629620)
 
