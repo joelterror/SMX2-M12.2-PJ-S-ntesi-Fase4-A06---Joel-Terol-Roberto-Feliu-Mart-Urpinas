@@ -46,7 +46,10 @@ NAT Network: Para compartir acceso a Internet entre varias máquinas virtuales.
 
 # Configuració de xarxa en windows. 
 
-Para entrar nos dirigimos a el panel de control -) despuésRedes e internet -) Centro de redes -) Cambiar configuraciñon del adaptador -) Elegimos el el adaptador que deseamos modificar y le damos click derecho y propiedades, y nos aparecerá la siguiente ventana.
+Para entrar nos dirigimos a el panel de control -) Redes e internet -) Centro de redes -) Cambiar configuraciñon del adaptador -) Elegimos el el adaptador que deseamos modificar y le damos click derecho y propiedades, y nos aparecerá la siguiente ventana.
+
+
+Y por último ya podremos modificar los parámetros.
 ![]![image](https://github.com/user-attachments/assets/46352f52-e448-49ad-b88c-59d3872d8032)
 
 
