@@ -74,4 +74,7 @@ Y aqui dentro escribimos todo tal cual esta. Y ya dependiendo de lo que quieras 
 
 ![image](https://github.com/user-attachments/assets/535787c3-5822-4863-92eb-c5b91c629620)
 
+En caso de desactivar el DHCP y poner las Ips manualmente.
+
+![image](https://github.com/user-attachments/assets/c9ebac89-bd60-4dd0-8c1a-a9fa7f96afe4)
 
